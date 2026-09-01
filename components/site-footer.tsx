@@ -6,7 +6,7 @@ import { MdEmail } from "react-icons/md";
 const SOCIAL_LINKS = [
   {
     name: 'WhatsApp',
-    href: `https://wa.me/+917400722247?text=${encodeURIComponent(
+    href: `https://wa.me/+918297118390?text=${encodeURIComponent(
       'Hello! 👋 I want to get my ID. Please provide me with the details.'
     )}`,
     icon: <FaWhatsapp  />,
