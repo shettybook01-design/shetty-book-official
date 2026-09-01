@@ -6,9 +6,9 @@ const GAMES = [
   { name: 'Cricket', img: '/images/cricket.jpg', whatsappNumber: '+918297118390' },
   { name: 'Football', img: '/images/football.jpg', whatsappNumber: '+917355286763' },
   { name: 'Tennis', img: '/images/tennis.jpg', whatsappNumber: '+919630073405' },
-  { name: 'Cricket Casino', img: '/images/cricket-casino.jpg', whatsappNumber: '+917400722247' },
-  { name: 'Teen Patti', img: '/images/teen-patti.jpg', whatsappNumber: '+917400722247' },
-  { name: 'Roulette', img: '/images/roulette.jfif', whatsappNumber: '+917400722247' },
+  { name: 'Cricket Casino', img: '/images/cricket-casino.jpg', whatsappNumber: '+918297118390' },
+  { name: 'Teen Patti', img: '/images/teen-patti.jpg', whatsappNumber: '+917355286763' },
+  { name: 'Roulette', img: '/images/roulette.jfif', whatsappNumber: '+919630073405' },
 ]
 
 export function GamesSection() {
