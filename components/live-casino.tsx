@@ -2,7 +2,7 @@
 
 import Image from 'next/image'
 
-const WHATSAPP_NUMBER = '917400722247'
+const WHATSAPP_NUMBER = '+918297118390'
 
 const LIVE_GAMES = [
   { name: 'Teenpatti', img: '/images/live-teenpatti.jpg', whatsappNumber: '+918297118390' },
@@ -17,7 +17,7 @@ export function LiveCasino() {
   const openWhatsApp = (gameName: string, whatsappNumber: string) => {
     const message = `Hi, I am interested in playing ${gameName}. Please provide me with more details.`
 
-    const whatsappUrl = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(
+    const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(
       message
     )}`
 
