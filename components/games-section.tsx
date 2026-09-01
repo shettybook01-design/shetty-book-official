@@ -1,6 +1,6 @@
 'use client'
 import Image from 'next/image'
-const WHATSAPP_NUMBER = '+917400722247'
+const WHATSAPP_NUMBER = '+918297118390'
 
 const GAMES = [
   { name: 'Cricket', img: '/images/cricket.jpg', whatsappNumber: '+918297118390' },
