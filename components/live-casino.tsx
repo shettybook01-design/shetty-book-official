@@ -5,10 +5,10 @@ import Image from 'next/image'
 const WHATSAPP_NUMBER = '917400722247'
 
 const LIVE_GAMES = [
-  { name: 'Teenpatti', img: '/images/live-teenpatti.jpg', whatsappNumber: '+917400722247' },
+  { name: 'Teenpatti', img: '/images/live-teenpatti.jpg', whatsappNumber: '+918297118390' },
   { name: 'T20 Teen Patti', img: '/images/live-t20-teenpatti.jpg', whatsappNumber: '+917355286763' },
   { name: 'Hi Low', img: '/images/live-hilow.jpg', whatsappNumber: '+919630073405' },
-  { name: 'Amar Akbar Anthony', img: '/images/live-aaa.jpg', whatsappNumber: '+917400722247' },
+  { name: 'Amar Akbar Anthony', img: '/images/live-aaa.jpg', whatsappNumber: '+918297118390' },
   { name: 'Andar Bahar', img: '/images/live-andarbahar.jpg', whatsappNumber: '+917355286763' },
   { name: 'Roulette', img: '/images/live-roulette.jpg', whatsappNumber: '+919630073405' },
 ]
