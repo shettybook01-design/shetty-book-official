@@ -12,7 +12,7 @@ const NAV = [
   { name: 'Bonus', href: '#bonus' },
 ]
 
-const WHATSAPP_NUMBER = '+917400722247'
+const WHATSAPP_NUMBER = '+918297118390'
 
 const WHATSAPP_MESSAGE =
   'Hello! 👋 I want to get my ID. Please provide me with the registration details and help me get started.'
