@@ -31,7 +31,7 @@ export default function Page() {
       <SiteFooter />
 
       <a
-        href={`https://wa.me/+917400722247?text=${encodeURIComponent(
+        href={`https://wa.me/+918297118390?text=${encodeURIComponent(
           'Hello! 👋 I would like to get my ID. Please help me with the registration.'
         )}`}
         target="_blank"
